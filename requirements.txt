@@ -1,0 +1,6 @@
+pandas==1.5.2
+scikit_learn==1.2.0
+snowflake==0.0.3
+snowflake_sqlalchemy==1.4.5
+SQLAlchemy==1.4.45
+streamlit==1.15.2
